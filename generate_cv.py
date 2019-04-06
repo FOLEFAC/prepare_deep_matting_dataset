@@ -2,7 +2,7 @@
 """
 Created on Sat Apr  6 12:46:05 2019
 
-@author: shine
+@author: FOLEFAC
 """
 import cv2
 import numpy as np
